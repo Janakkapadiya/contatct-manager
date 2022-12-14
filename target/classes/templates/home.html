@@ -1,0 +1,48 @@
+<!--<!DOCTYPE html>-->
+<!--<html xmlns:th="http://www.thymeleaf.org" th:replace="base::layout(~{::section})">-->
+<!--<head>-->
+<!--<meta charset="ISO-8859-1">-->
+<!--<title>Home page</title>-->
+<!--</head>-->
+<!--<body>-->
+<!--	-->
+<!--	<section class="banner d-flex justify-content-center align-items-center">-->
+<!--		<div class="text-center" th:action ="@{/signup}">-->
+<!--			<h2 class="font-weight-bold">Smart Contact Manager</h2>	-->
+<!--		<p>-->
+<!--			Start collecting your contact very smart way.-->
+<!--			We provide very efficient and smarter way of holdings contacts. -->
+<!--		</p>-->
+<!--		<button th:href="@{/signup}" class="btn bg-primary bt-lg text-white">Get Started</button>-->
+<!--		</div>-->
+<!--		-->
+<!--	</section>-->
+<!--</body>-->
+<!--</html>-->
+
+
+
+
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org"
+	  th:replace="base::layout(~{::section})">
+<head>
+	<meta charset="ISO-8859-1">
+	<title>Insert title here</title>
+</head>
+<body>
+<h1>Home</h1>
+<section>
+
+	<div class="backimg">
+		<div class="text-white text-center" th:action ="@{/signup}">
+			<h1>ENotes- Save Notes</h1>
+			<p>Start Collecting your Notes in very smarter way .We provied
+				very efficient and smarter way of handling Notes</p>
+			<a class="btn bg-primary ms-2">Get Started</a>
+		</div>
+	</div>
+
+</section>
+</body>
+</html>

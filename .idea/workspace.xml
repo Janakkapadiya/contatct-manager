@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6c070c0c-4185-4743-836f-c3513bfaf469" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/f/5f4ab6060c765650ddbb16e715ea539c7acf1063" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/9/89d246b264d12ffda1dc8f5e35b7462489ef4c7e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9bf949bb2c92bde3c56dcdb8575f6ae71a1100c5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/SmartContactManagerApplication.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/configure/SecurityConfiguration.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/configure/UserDetailsImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/configure/UserDetailsServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/controller/HomeController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/controller/UserController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/dao/ContactRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/dao/UserRepository.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/entities/Contact.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/entities/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/exception/CustomErrorDetails.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/exception/ImageNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/exception/UserNotFoundException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/handler/GlobalExceptionHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/helper/Message.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/scma/anilg/service/UserService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/banner14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/banner6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/bg.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/bg1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/contact_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/profile-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/user_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/image/wave.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/static/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/add_contact_form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/profile.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/show_contacts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/show_user_contact_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/update_contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/user_base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/templates/user/user_dashboard.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/scma/anilg/SmartContactManagerApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/scma/anilg/SmartContactManagerApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JpbToolWindowState">
+    <option name="myId2FirstActivated">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="true" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="true" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="true" />
+      </map>
+    </option>
+    <option name="myId2Visible">
+      <map>
+        <entry key="com.haulmont.jpb.jpaInspector" value="false" />
+        <entry key="com.haulmont.jpb.jpaPalette" value="false" />
+        <entry key="com.haulmont.jpb.jpaStructure" value="false" />
+      </map>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Use Maven wrapper" />
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ISIPMFhCtQRJzrsq2V248zTpP0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/janakkapadiya/Downloads/smart-contact-manager-main/smart_contact_manager",
+    "settings.editor.selected.configurable": "advanced.settings"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="SmartContactManagerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.scma.anilg.SmartContactManagerApplication" />
+      <module name="smart_contact_manager" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.scma.anilg.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SmartContactManagerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6c070c0c-4185-4743-836f-c3513bfaf469" name="Changes" comment="" />
+      <created>1670168533561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670168533561</updated>
+    </task>
+    <servers />
+  </component>
+</project>
